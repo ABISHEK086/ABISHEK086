@@ -12,7 +12,6 @@
 - 🛠️ Currently shipping features in production at **JLK Technology India**
 - 🤖 I like building things that actually ship — RepoPilot opens real GitHub PRs, MeetMind transcribes and structures real meetings
 - 📫 Reach me at **abishek8673@gmail.com**
-- 🌱 Currently exploring graph databases and LLM-powered developer tooling
 
 <br/>
 
