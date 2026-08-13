@@ -20,10 +20,6 @@ I'm a Software Engineer focused on building intelligent, user-centric applicatio
 
 I've worked across product development and internships with **JLK Technology, JPMorgan Chase, Accenture, and Quantium** — solving problems from UI performance optimization to financial data visualization. Along the way I've built interactive dashboards, improved system reliability, and shipped AI tools that real people actually use.
 
-- 🔭 Currently building production React/Next.js features at **JLK Technology India**
-- 🤖 Recently shipped: **RepoPilot** (opens real GitHub PRs via LLM-generated fixes) and **MeetMind** (transcribes + structures real meetings)
-- 🌱 Currently exploring graph databases and LLM-powered developer tooling
-- ⚡ Fun fact: I'd rather debug a production incident than write another to-do app
 
 <br/>
 
