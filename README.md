@@ -64,8 +64,8 @@ I've worked across product development and internships with **JLK Technology, JP
 ## 📊 GitHub Stats
 
 <p align="left">
-<img height="165" src="https://github-readme-stats-teal-three-22.vercel.app/api?username=ABISHEK086&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-teal-three-22.vercel.app/api/top-langs/?username=ABISHEK086&layout=compact&theme=tokyonight&hide_border=true" />
+<!-- <img height="165" src="https://github-readme-stats-teal-three-22.vercel.app/api?username=ABISHEK086&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> -->
+<!-- <img height="165" src="https://github-readme-stats-teal-three-22.vercel.app/api/top-langs/?username=ABISHEK086&layout=compact&theme=tokyonight&hide_border=true" /> -->
 </p>
 
 <img src="https://streak-stats.demolab.com/?user=ABISHEK086&theme=tokyonight&hide_border=true" />
