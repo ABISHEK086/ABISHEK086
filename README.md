@@ -16,9 +16,9 @@
 
 ## 👋 About Me
 
-I'm a Software Engineer focused on building intelligent, user-centric applications at the intersection of web development and AI. From frontend performance to backend logic, I like turning complex ideas into scalable, practical solutions — and I'd rather ship something real than build another tutorial project.
+I'm a Software Engineer focused on building intelligent, user-centric applications at the intersection of web development and AI. From frontend performance to backend logic, I like turning complex ideas into scalable, practical solutions - and I'd rather ship something real than build another tutorial project.
 
-I've worked across product development and internships with **JLK Technology, JPMorgan Chase, Accenture, and Quantium** — solving problems from UI performance optimization to financial data visualization. Along the way I've built interactive dashboards, improved system reliability, and shipped AI tools that real people actually use.
+I've worked across product development and internships with **JLK Technology, JPMorgan Chase, Accenture, and Quantium** - solving problems from UI performance optimization to financial data visualization. Along the way I've built interactive dashboards, improved system reliability, and shipped AI tools that real people actually use.
 
 
 <br/>
