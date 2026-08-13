@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abishek+Antony;Software+Developer;React+%7C+Next.js+%7C+Python+%7C+FastAPI;I+build+and+ship+AI-powered+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abishek+%F0%9F%91%8B;Software+Engineer+%7C+React+%2B+AI;I+turn+ideas+into+things+that+ship;Currently%3A+building+at+JLK+Technology" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500">
 
 </div>
 
@@ -8,10 +10,14 @@
 
 ## 👋 About Me
 
-- 🚀 Software Developer building production React/Next.js applications and full-stack AI-powered tools
-- 🛠️ Currently shipping features in production at **JLK Technology India**
-- 🤖 I like building things that actually ship — RepoPilot opens real GitHub PRs, MeetMind transcribes and structures real meetings
-- 📫 Reach me at **abishek8673@gmail.com**
+I'm a Software Engineer focused on building intelligent, user-centric applications at the intersection of web development and AI. From frontend performance to backend logic, I like turning complex ideas into scalable, practical solutions — and I'd rather ship something real than build another tutorial project.
+
+I've worked across product development and internships with **JLK Technology, JPMorgan Chase, Accenture, and Quantium** — solving problems from UI performance optimization to financial data visualization. Along the way I've built interactive dashboards, improved system reliability, and shipped AI tools that real people actually use.
+
+- 🔭 Currently building production React/Next.js features at **JLK Technology India**
+- 🤖 Recently shipped: **RepoPilot** (opens real GitHub PRs via LLM-generated fixes) and **MeetMind** (transcribes + structures real meetings)
+- 🌱 Currently exploring graph databases and LLM-powered developer tooling
+- ⚡ Fun fact: I'd rather debug a production incident than write another to-do app
 
 <br/>
 
@@ -89,6 +95,14 @@
 <a href="https://github.com/ABISHEK086/HRMS-Human-Resource-Management-System">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ABISHEK086&repo=HRMS-Human-Resource-Management-System&theme=tokyonight&hide_border=true" />
 </a>
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/ABISHEK086/ABISHEK086/output/github-contribution-grid-snake.svg" alt="A snake eating my GitHub contribution graph" />
 </p>
 
 <br/>
