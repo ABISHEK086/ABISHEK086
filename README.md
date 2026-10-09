@@ -87,9 +87,9 @@ Git · GitHub · Claude Code · GitHub Copilot · Vercel · Linux · Debugging �
 ## Experience
 
 - **JLK Technology India** - Junior Software Engineer
-- **JPMorgan Chase & Co.** — Software Engineering Virtual Internship
-- **Accenture** — Application Development
-- **Kaashiv InfoTech** — Full-Stack Development Internship
+- **JPMorgan Chase & Co.** - Software Engineering Virtual Internship
+- **Accenture** - Application Development
+- **Kaashiv InfoTech** - Full-Stack Development Internship
 
 My experience across software development has helped me build a foundation in application engineering, API integration, data handling, debugging, and system reliability.
 
