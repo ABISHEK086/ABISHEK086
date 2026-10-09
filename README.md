@@ -25,25 +25,27 @@
 
 ---
 
-## 👋 About Me
 
-I'm a Software Engineer interested in building intelligent, user-focused applications at the intersection of software development and AI.
+##  About Me
 
-My work spans frontend development, backend APIs, Python, and Generative AI. I'm particularly interested in how LLMs, AI agents, semantic search, and automation can be combined with solid software engineering to solve practical problems.
+I’m Abishek Antony a software engineer drawn to the space where good engineering meets intelligent systems.
 
-I enjoy understanding how systems work, debugging complex issues, learning new technologies, and turning ideas into applications that are useful beyond a demo.
+I like digging into problems that aren’t immediately obvious: tracing how data moves through an application, understanding why a system behaves unexpectedly, and figuring out where AI can make a genuinely useful difference.
 
-Currently, I'm deepening my focus on **AI Engineering, LLM applications, and production-ready AI systems** while continuing to strengthen my software engineering fundamentals.
+My focus is evolving toward **AI Engineering**, with Python, LLMs, AI agents, APIs, and modern web technologies as my toolkit. I care about what happens beyond the first successful response, whether the output is reliable, the reasoning is grounded, and the solution holds up outside a demo.
 
-- 🤖 Exploring Generative AI, LLMs, and AI agent workflows
-- 🐍 Building with Python, FastAPI, and REST APIs
-- ⚛️ Developing with React.js, JavaScript, and TypeScript
-- 🔍 Interested in semantic search, embeddings, and intelligent automation
-- 🛠️ Focused on practical engineering, debugging, and continuous improvement
+Curiosity starts the build. Engineering makes it work.
+
+
+- Exploring Generative AI, LLMs, and AI agent workflows
+- Building with Python, FastAPI, and REST APIs
+- Developing with React.js, JavaScript, and TypeScript
+- Interested in semantic search, embeddings, and intelligent automation
+- Focused on practical engineering, debugging, and continuous improvement
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abishek-antony-a86673ap/">LinkedIn</a> ·
@@ -54,7 +56,7 @@ Currently, I'm deepening my focus on **AI Engineering, LLM applications, and pro
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 **AI & Generative AI**
 
@@ -82,18 +84,18 @@ Git · GitHub · Claude Code · GitHub Copilot · Vercel · Linux · Debugging �
 
 ---
 
-## 💼 Experience
+## Experience
 
-- **JLK Technology India** — Software Development
+- **JLK Technology India** - Junior Software Engineer
 - **JPMorgan Chase & Co.** — Software Engineering Virtual Internship
-- **Accenture** — Development and Advanced Engineering Virtual Experience
+- **Accenture** — Application Development
 - **Kaashiv InfoTech** — Full-Stack Development Internship
 
 My experience across software development has helped me build a foundation in application engineering, API integration, data handling, debugging, and system reliability.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -109,7 +111,7 @@ My experience across software development has helped me build a foundation in ap
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/ABISHEK086/ABISHEK086/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
